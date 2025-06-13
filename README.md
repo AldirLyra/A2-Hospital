@@ -1,5 +1,3 @@
-Aqui está o **README.md** completo em um único bloco de markdown para fácil cópia:
-
 # Sistema de Gestão Hospitalar - A2-Hospital
 
 ## Visão Geral
